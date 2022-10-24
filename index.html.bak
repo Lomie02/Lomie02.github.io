@@ -7,7 +7,7 @@
 	body{
 	background-image: url("Images/backdrop.jpg");
 	background-position center center;
-	background-attachmen scroll;
+	background-attachment scroll;
 	}
 </style> 
 	
