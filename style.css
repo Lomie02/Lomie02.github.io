@@ -11,8 +11,8 @@ nav{
 .menu{
 	margin: 0;
 	padding: 8px;
-	height: 21px;
-	background-color: #334a94;
+	height: 17px;
+	background-color: #313634;
 }
 
 .menu li{
@@ -26,4 +26,13 @@ nav{
 	color: #ffffff;
 	padding: 8px;
 	text-decoration: none;
+}
+.button:link{
+		background-color: #313634;
+		color: #ffffff;
+}
+
+.button:hover{
+		background-color: #d32f2f;
+	
 }

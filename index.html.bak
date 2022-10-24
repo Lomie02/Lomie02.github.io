@@ -8,12 +8,13 @@
 
 
 <body>
-	<nav>
+	<nav style= "text-align: right;">
 		<ul class= "menu">
 			<li><a class= "button" href = "index.html">Home</a> </li>
-			<li><a class= "button" href = "portfolio.html">Portfolios</a> </li>
+			<li><a class= "button" href = "portfolios.html">Portfolios</a> </li>
 			<li><a class= "button" href = "about.html">About Me</a> </li>
 			<li><a class= "button" href = "resume.html">Resume</a> </li>
+			
 		</ul>
 	</nav>
 </body>
@@ -21,7 +22,7 @@
 <body>
 
 <h1 style = "text-align: center; color:LightGray;"> Lomie Home</h1>
-<p style="color:LightGray; text-align: center;">Infomation</p>
+<p style="color:LightGray; text-align: center;">Information</p>
 </body>
 
 <footer>
