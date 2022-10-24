@@ -5,12 +5,6 @@
 
 <a rel="Yep" href = "style.css">
 
-body {
-	background-image: url("backdrop.png");
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
 <body>
 
 <h1>Lomie</h1>
@@ -18,6 +12,6 @@ body {
 </body>
 
 <footer>
-<p>Look at you</p>
+<p>©Boy Inc</p>
 </footer>
 </html>
