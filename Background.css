@@ -1,5 +1,5 @@
 body {
 	background-image: url("backdrop.png");
-	background-position center center;
-	background-attachment scroll;
+	background-position: center center;
+	background-attachment: scroll;
 }
