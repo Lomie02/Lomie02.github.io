@@ -2,11 +2,28 @@ body {
 	background-image: url("backdrop.png");
 	background-size: cover;
 	background-repeat: no-repeat;
+	margin: 0;
 }
-h1{
-	color: LightGray;
+nav{
+	width: 100%
+	float: left;
+}
+.menu{
+	margin: 0;
+	padding: 8px;
+	height: 21px;
+	background-color: #334a94;
 }
 
-p{	
-	color: LightGray;
+.menu li{
+	display: inline;
+	
+}
+.button{
+	font-family: Arial;
+	font-size: 1em;
+	font-style: none;
+	color: #ffffff;
+	padding: 8px;
+	text-decoration: none;
 }
