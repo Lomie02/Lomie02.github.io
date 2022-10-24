@@ -3,7 +3,12 @@
 <body>
 <title> Lomie.net </title>
 
-<style>body{background-image: url('backdrop.jpg');} </style> 
+<style>
+	body{
+	background-image: url('backdrop.jpg');
+	}
+</style> 
+	
 <h1>Hello World11</h1>
 <p>Look at you</p>
 </body>
