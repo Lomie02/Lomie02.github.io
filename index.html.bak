@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html>
- <head>
-<title> Lomie.net </title>
-<link rel="stylesheet" href = "styles.css">
-</head>
+ <header>
+<title> Lomie | Home </title>
+</header>
 
 <style>
 body {
 	background-image: url("backdrop.png");
 	background-size: cover;
+	background-position: scroll;
 	background-repeat: no-repeat;
 }
 </style>
 
 <body>
-
-<h1 style="color:LightGray;">Lomie</h1>
-<p style="color:LightGray;">Look at you</p>
+<h1 style = "text-align: center; color:LightGray;"> Lomie</h1>
+<p style="color:LightGray; text-align: center;">Stuff here</p>
 </body>
 
 <footer>
 
-<p style="color:LightGray;">©Boy Inc</p>
+<p style="color:LightGray; text-align: center;">©Boy Inc</p>
 </footer>
 </html>
