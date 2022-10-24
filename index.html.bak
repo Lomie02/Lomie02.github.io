@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
  <header>
-<title> Lomie.net </title>
-
-<a rel = "Yep" href = "style.css">
+	<title> Lomie.net </title>
+	
+	<style>
+	<a rel = "Yep" href = "style.css">
+	
+	</style>
 </header>
 
 <body>
