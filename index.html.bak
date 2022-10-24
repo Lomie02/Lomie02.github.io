@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html>
- 
+ <header>
 <title> Lomie.net </title>
 
-<style>
-body {
-	background-image: url("background.png");
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-</style>
+<a rel = "Yep" href = "style.css">
+</header>
 
 <body>
 
