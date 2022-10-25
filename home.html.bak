@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
  <head>
-	<title> Lomie | Portfolios </title>
+	<title> Lomie | Home </title>
 	<link rel="stylesheet" href="style.css" type:"text/css";>
 	
 </head>
+
 
 <body>
 	<nav style= "text-align: right;">
@@ -18,10 +19,14 @@
 	</nav>
 </body>
 
-<h1 style = "text-align: center; color:LightGray;"> PORTFOLIOS </h1>
-<p style= "text-align: center; color:lightGray;"> Infomation about my portfolios</p>
+<body>
 
-<a class= "button1" href = "programingPortfolio"> Programming Portfolio </a>
-<a class= "button1" href = "ArtPortfolio"> Art Portfolio</a>
+<h1 style = "text-align: center; color:LightGray;"> HOME</h1>
+<p style="color:LightGray; text-align: center;">Information</p>
+</body>
 
+<footer>
+
+<p style="color:LightGray; text-align: center;">©Boy Inc</p>
+</footer>
 </html>

@@ -26,6 +26,7 @@ nav{
 	color: #ffffff;
 	padding: 8px;
 	text-decoration: none;
+	cursor: pointer;
 }
 .button:link{
 		background-color: #313634;
@@ -34,5 +35,24 @@ nav{
 
 .button:hover{
 		background-color: #d32f2f;
-	
+}
+.button1{
+	font-family: Arial;
+	cursor: pointer;
+	font-size: 1em;
+	font-style: none;
+	color: #ffffff;
+	padding: 8px;
+	text-decoration: none;
+}
+.button1:link{
+		background-color: #313634;
+		color: #ffffff;
+}
+
+.button1:hover{
+		background-color: #d32f2f;
+		
+	background-image: url("backdrop.png");
+	background-size: cover;
 }
