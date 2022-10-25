@@ -21,7 +21,7 @@
 <h1 style = "text-align: center; color:LightGray;"> PORTFOLIOS </h1>
 <p style= "text-align: center; color:lightGray;"> Infomation about my portfolios</p>
 
-<a class= "button" href = "programingPortfolio"> Programming Portfolio </a>
-<a class= "button" href = "ArtPortfolio"> Art Portfolio</a>
+<a class= "button1" href = "programingPortfolio"> Programming Portfolio </a>
+<a class= "button1" href = "ArtPortfolio"> Art Portfolio</a>
 
 </html>
