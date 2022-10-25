@@ -3,7 +3,6 @@
  <head>
 	<title> Lomie | Home </title>
 	<link rel="stylesheet" href="style.css" type:"text/css";>
-	
 </head>
 
 
@@ -21,7 +20,7 @@
 
 <body>
 
-<h1 style = "text-align: center; color:LightGray;"> Lomie Home</h1>
+<h1 style = "text-align: center; color:LightGray;"> HOME</h1>
 <p style="color:LightGray; text-align: center;">Information</p>
 </body>
 
