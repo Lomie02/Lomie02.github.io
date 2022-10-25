@@ -18,6 +18,6 @@
 	</nav>
 </body>
 
-<p style= "text-align: center; color: LightGray;"> About Me</p>
+<h1 style= "text-align: center; color: LightGray;"> About Me</h1>
 
 </html>

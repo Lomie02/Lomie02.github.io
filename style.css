@@ -1,7 +1,9 @@
 body {
 	background-image: url("backdrop.png");
 	background-size: cover;
-	background-repeat: relative;
+	background-position: center;
+	background-repeat: none:
+	
 	margin: 0;
 }
 nav{
