@@ -1,6 +1,7 @@
 body {
 	background-image: url("backdrop.png");
 	background-size: cover;
+	background-repeat: relative;
 	margin: 0;
 }
 nav{
