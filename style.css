@@ -2,11 +2,11 @@ body {
 	background-image: url("backdrop.png");
 	background-size: cover;
 	background-position: center;
-	background-repeat: none:
+	background-repeat: none;
 	
 }
 nav{
-	width: 100%
+	width: 100%;
 	float: center;
 }
 .menu{
@@ -22,9 +22,9 @@ nav{
 }
 .menu1{
 	margin: 0;
-	padding: 8px;
-	height: 18px;
-	width: 300px;
+	padding: 12px;
+	height: 8px;
+
 	background-color: #313634;
 }
 .menu1 li{
@@ -66,5 +66,31 @@ nav{
 .button1:hover{
 	background-color: #d32f2f;	
 	background-image: url("backdrop.png");
+	background-position: center;
+	background-size: cover;
+}
+
+.GameTest{
+	font-family: Arial;
+	cursor: pointer;
+	font-size: 1em;
+	font-style: none;
+	color: #ffffff;
+	padding: 8px;
+
+	top: 300px;
+	left: 400px;
+	position: absolute;
+	text-decoration: none;
+}
+.GameTest:link{
+		background-color: #313634;
+		color: #ffffff;
+}
+
+.GameTest:hover{
+	background-color: #d32f2f;	
+	background-image: url("backdrop.png");
+	background-position: center;
 	background-size: cover;
 }
