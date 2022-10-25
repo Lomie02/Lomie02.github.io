@@ -4,16 +4,15 @@ body {
 	background-position: center;
 	background-repeat: none:
 	
-	margin: 0;
 }
 nav{
 	width: 100%
-	float: left;
+	float: center;
 }
 .menu{
 	margin: 0;
 	padding: 8px;
-	height: 17px;
+	height: 19px;
 	background-color: #313634;
 }
 
@@ -21,6 +20,18 @@ nav{
 	display: inline;
 	
 }
+.menu1{
+	margin: 0;
+	padding: 8px;
+	height: 18px;
+	width: 300px;
+	background-color: #313634;
+}
+.menu1 li{
+	display: inline;
+	
+}
+
 .button{
 	font-family: Arial;
 	font-size: 1em;
@@ -53,8 +64,7 @@ nav{
 }
 
 .button1:hover{
-		background-color: #d32f2f;
-		
+	background-color: #d32f2f;	
 	background-image: url("backdrop.png");
 	background-size: cover;
 }

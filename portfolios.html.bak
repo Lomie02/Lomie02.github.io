@@ -3,7 +3,7 @@
  <head>
 	<title> Lomie | Portfolios </title>
 	<link rel="stylesheet" href="style.css" type:"text/css";>
-	
+	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=2">
 </head>
 
 <body>
@@ -21,7 +21,13 @@
 <h1 style = "text-align: center; color:LightGray;"> PORTFOLIOS </h1>
 <p style= "text-align: center; color:lightGray;"> Infomation about my portfolios</p>
 
-<a class= "button1" href = "programingPortfolio"> Programming Portfolio </a>
-<a class= "button1" href = "ArtPortfolio"> Art Portfolio</a>
+<body>
+	<nav style="text-align: center;>
+		<ul class="menu1">
+			<li><a class= "button1" href = "programingPortfolio"> Programming Portfolio </a></li>
+			<li><a class= "button1" href = "ArtPortfolio"> Art Portfolio</a> </li>
+		</ul>
+	</nav>
+</body>
 
 </html>
