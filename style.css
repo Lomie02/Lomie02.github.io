@@ -94,3 +94,11 @@ nav{
 	background-position: center;
 	background-size: cover;
 }
+
+p{
+	color:lightgrey;
+}
+.p1{
+	color: lightgrey;
+	position: absolute;
+}
