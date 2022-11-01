@@ -104,6 +104,10 @@ p{
 ::-webkit-scrollbar {
     width: 12px;
 }
+
+::-webkit-scrollbar-button{
+	border-radius: 50px;
+}
  
 ::-webkit-scrollbar-track {
 
@@ -111,5 +115,5 @@ p{
 }
  
 ::-webkit-scrollbar-thumb {
-    border-radius: 10px;
+    border-radius: 12px;
 }
