@@ -1,9 +1,8 @@
 body {
-	background-image: url("backdrop.png");
+	background-image: url("Pics/backdrop.png");
 	background-size: cover;
-	background-position: center;
-	background-repeat: none;
-	
+	overflow-y: scroll;
+	overflow-x: hidden;
 }
 nav{
 	width: 100%;
@@ -65,7 +64,7 @@ nav{
 
 .button1:hover{
 	background-color: #d32f2f;	
-	background-image: url("backdrop.png");
+	background-image: url("Pics/backdrop.png");
 	background-position: center;
 	background-size: cover;
 }
@@ -90,7 +89,7 @@ nav{
 
 .GameTest:hover{
 	background-color: #d32f2f;	
-	background-image: url("backdrop.png");
+	background-image: url("Pics/backdrop.png");
 	background-position: center;
 	background-size: cover;
 }
@@ -101,4 +100,16 @@ p{
 .p1{
 	color: lightgrey;
 	position: absolute;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
 }
