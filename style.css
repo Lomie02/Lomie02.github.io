@@ -11,8 +11,8 @@ nav{
 .menu{
 	margin: 0;
 	padding: 8px;
-	height: 19px;
-	background-color: #313634;
+	height: 200px;
+	background-color: #afafaf7c;
 }
 
 .menu li{
@@ -41,12 +41,12 @@ nav{
 	cursor: pointer;
 }
 .button:link{
-		background-color: #313634;
+		background-color: #ffffff00;
 		color: #ffffff;
 }
 
 .button:hover{
-		background-color: #d32f2f;
+		background-color: #7ef0ff52;
 }
 .button1{
 	font-family: Arial;
@@ -117,3 +117,14 @@ p{
 ::-webkit-scrollbar-thumb {
     border-radius: 12px;
 }
+
+img {
+	display:inline-block;
+	width: 50%;
+	height: auto;
+  }
+
+  h1{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
