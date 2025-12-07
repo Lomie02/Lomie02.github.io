@@ -169,8 +169,9 @@ img {
 
 .project-card {
   display: flex;
+  color: #fff;
   flex-wrap: wrap;
-  background-color: rgba(255, 255, 255, 0.9); 
+  background-color: rgba(0, 0, 0, 0.9); 
   margin: 30px 0;
   border-radius: 10px;
   overflow: hidden;
@@ -184,7 +185,7 @@ img {
 
 .project-info {
   padding: 20px;
-  flex: 1; / take remaining space /
+  flex: 1; 
 }
 
 .project-info h3 {
