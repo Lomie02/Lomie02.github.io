@@ -171,7 +171,7 @@ img {
   display: flex;
   color: #fff;
   flex-wrap: wrap;
-  background-color: rgba(0, 0, 0, 0.9); 
+  background-color: rgba(0, 0, 0, 0.884); 
   margin: 30px 0;
   border-radius: 10px;
   overflow: hidden;
@@ -222,4 +222,52 @@ img {
 
 .contact-link{
 	color: #222524;
+}
+
+.project-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.status-active {
+    width: 9px;
+    height: 9px;
+    background-color: #35c759;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.status-support {
+    width: 9px;
+    height: 9px;
+    background-color: #3599c7;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.status-archived {
+    width: 9px;
+    height: 9px;
+    background-color: #ead0eb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.status-hold {
+    width: 9px;
+    height: 9px;
+    background-color: #ddd452;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.status-released {
+    width: 9px;
+    height: 9px;
+    background-color: #9135c7;
+    border-radius: 50%;
+    display: inline-block;
 }
