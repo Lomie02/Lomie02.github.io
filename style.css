@@ -210,19 +210,23 @@ img {
   }
 }
 
-.contact-section {
+.contact-section{
   text-align: center;       
   margin: 0 auto;            
-  padding: 40px 15px;
   max-width: 600px;         
 
+   min-height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
   color: #fff;
-  background-color: #52818a3f;
+  background-color: #111111b2;
   border-radius: 15px;
 }
 
 .contact-link{
-	color: #222524;
+	color: #ffffff;
 }
 
 .project-status {
